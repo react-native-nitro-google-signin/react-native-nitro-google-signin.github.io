@@ -3,13 +3,13 @@ import type { Config } from '@docusaurus/types'
 import type * as Preset from '@docusaurus/preset-classic'
 
 const organizationName = 'react-native-nitro-google-signin'
-const projectName = 'google-signin'
+const projectName = 'react-native-nitro-google-signin.github.io'
 
 /**
- * GitHub Pages project site: https://react-native-nitro-google-signin.github.io/google-signin/
- * Custom domain (root path): set DOCUSAURUS_BASE_URL=/ and add docs/static/CNAME
+ * Org GitHub Pages site (this repo): https://react-native-nitro-google-signin.github.io/
+ * CI sets DOCUSAURUS_BASE_URL=/ ; override locally if needed.
  */
-const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? '/google-signin/'
+const baseUrl = process.env.DOCUSAURUS_BASE_URL ?? '/'
 const docsOrigin = 'https://react-native-nitro-google-signin.github.io'
 const siteBase = `${docsOrigin}${baseUrl.replace(/\/$/, '')}`
 

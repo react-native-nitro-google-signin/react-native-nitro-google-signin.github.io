@@ -81,11 +81,11 @@ Optional screenshot sources: `assets/` → copy to `docs/static/` (see `assets/R
 
 Use clear commit messages; [Conventional Commits](https://www.conventionalcommits.org/) help `semantic-release`.
 
-CI runs Android/iOS builds and docs deploy on relevant changes.
+CI in the package repo runs Android/iOS builds. Docs deploy from the [`react-native-nitro-google-signin.github.io`](https://github.com/react-native-nitro-google-signin/react-native-nitro-google-signin.github.io) repo on pushes to `main`.
 
 ### Docs deploy
 
-Enable **Settings → Pages → Source: GitHub Actions**. See [`docs/README.md`](https://github.com/react-native-nitro-google-signin/google-signin/blob/main/docs/README.md#deploy-github-pages).
+Enable **Settings → Pages → Source: GitHub Actions** on the docs repo. See [`docs/README.md`](https://github.com/react-native-nitro-google-signin/react-native-nitro-google-signin.github.io/blob/main/README.md#deploy-github-pages).
 
 ## Project layout
 
