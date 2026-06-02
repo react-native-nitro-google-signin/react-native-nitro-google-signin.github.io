@@ -109,6 +109,7 @@ const config: Config = {
             { label: 'For AI agents', to: '/docs/agents/overview' },
             { label: 'Install agent skill', to: '/docs/agents/skill' },
             { label: 'Rules & workflow', to: '/docs/agents/rules' },
+            { label: 'List on skills.sh', to: '/docs/agents/skills-sh' },
             { label: 'Skill source (GitHub)', href: 'https://github.com/react-native-nitro-google-signin/google-signin/tree/main/skills/react-native-nitro-google-signin' },
           ],
         },

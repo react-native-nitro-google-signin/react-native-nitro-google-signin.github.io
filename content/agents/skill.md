@@ -348,6 +348,10 @@ npx skills update react-native-nitro-google-signin
 npx skills remove react-native-nitro-google-signin -y
 ```
 
+## List on skills.sh
+
+To appear on [skills.sh](https://skills.sh) (search, leaderboard, canonical skill page), push this repo to GitHub and [request indexing](/docs/agents/skills-sh).
+
 ## Still need human-readable docs?
 
 Use the [Guide](/docs/intro) sidebar — the skill complements, not replaces, the full documentation site.

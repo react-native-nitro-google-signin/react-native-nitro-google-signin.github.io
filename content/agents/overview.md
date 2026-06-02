@@ -44,6 +44,7 @@ Full instructions for **Cursor, Claude Code, Copilot, Codex, Windsurf, Gemini CL
 | [Rules & workflow](/docs/agents/rules) | `AGENTS.md`, Cursor rules, Copilot instructions |
 | [Prompt templates](/docs/agents/prompts) | Starter messages after skill is installed |
 | [AGENTS.md](https://github.com/react-native-nitro-google-signin/google-signin/blob/main/AGENTS.md) | Contributing to this repo |
+| [List on skills.sh](/docs/agents/skills-sh) | Get indexed on the public skills directory |
 | [Documentation](/docs/intro) | Full human-readable guides |
 
 ## Common agent mistakes

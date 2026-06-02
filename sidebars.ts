@@ -61,6 +61,7 @@ const sidebars: SidebarsConfig = {
     'agents/skill',
     'agents/rules',
     'agents/prompts',
+    'agents/skills-sh',
   ],
 }
 
