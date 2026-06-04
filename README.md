@@ -1,3 +1,4 @@
+[![Deploy documentation](https://github.com/react-native-nitro-google-sign-in/react-native-nitro-google-sign-in.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/react-native-nitro-google-sign-in/react-native-nitro-google-sign-in.github.io/actions/workflows/deploy.yml)
 # Documentation site
 
 Docusaurus docs for **react-native-nitro-google-signin**, managed with **Bun**.
